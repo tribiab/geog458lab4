@@ -35,4 +35,6 @@
         <li> Available zoom levels: <strong> 1 - 8 (low) </strong></li>
         <li> Brief Description: I was inspired by Earth Day, which happened on Friday, April 22. I've recently learned more about environental activism and I wanted to create a theme that would represent that. I chose 1 - 8 zoom because there is not much functionality to this thematic map. Thus, because of this, I kept the zoom levels low.  <br></br></li>
     </ul>
+    <p> <strong> WARNING:</strong> Unfortunately, although my map works when I click "open with live server", it does not work via the github link. This is because not everything was pushed. I tried to manually transfer the files but the file sizes are too large. I can show a video of me using the map though!
+    <img src = "error_ss.png" alt= 'hey'> </p>
 </body>
