@@ -25,7 +25,7 @@
     <img src='base_shooting_ss.png' alt='basemap and mass shootings'>
     <ul>
         <li> Examined Geographic Area: <strong> USA </strong></li>
-        <li> Available zoom levels: <strong> 1 - 13 (high) </strong></li>
+        <li> Available zoom levels: <strong> 1 - 10 (high) </strong></li>
         <li> Brief Description: This map is the result of adding my thematic layer of mass shootings onto my original basemap. Notice that the red circles are more proiment when layered on top of the dark basemap. My intentions with this visualization was to clearly show the locations of mass shootings, nothing more. Thus, my choice to omit bodies of water for visual minimalism worked out in my favor. <br></br>Furthermore, I increased the <strong>zoom level</strong> for this map because I intended for the audience to use this map to conduct exploratory analysis. I noticed that with a max zoom level of 8, I could barely zoom into Seattle without the image getting blurry. Hopefully, by increasing the maximum zoom, users can use this tool more accurately. <br></br></li>
     </ul>
     <strong> Layer 4: Earth Day Theme </strong>
