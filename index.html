@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Map Design</title>
+    <title>US Mass shootings (1996 - 2016)</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.css" rel="stylesheet">
@@ -156,6 +156,14 @@
                 },
                 'source': 'earthday'
             });
+            
+            // add zoom buttons
+            const nav = new mapboxgl.NavigationControl();
+            map.addControl(nav, 'top-left')
+            // add fullscreen botton
+            map.addControl(new mapboxgl.FullscreenControl(), 'bottom-right');
+            // add scale bar
+            map.addControl(new mapboxgl.ScaleControl({position: 'bottom-left'}));
         });
 
 
