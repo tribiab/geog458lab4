@@ -2,7 +2,7 @@
 
 <head>
     <h1> Lab 4: Map design and Tile Generation </h1>
-    <a href='URL:https://tribiab.github.io/geog458lab4/'> Click Here for Trevor's Web Map! </a>
+    <a href='URL:https://tribiab.github.io/geog458lab4/index'> Click Here for Trevor's Web Map! </a>
 </head>
 
 <body>
